@@ -93,53 +93,53 @@ class BarangRepository(context: Context) {
         val dummyData = listOf(
             Barang(
                 id = 1717000000001L,
-                nama = "Mouse Logitech M331",
-                kategori = "Aksesoris",
-                harga = 185000.0,
-                stok = 15,
-                sku = "LOG-M331-BLK",
-                berat = 0.1,
-                deskripsi = "Mouse wireless silent dengan desain ergonomis dan baterai tahan lama hingga 24 bulan."
+                nama = "Xiaomi Mi Smart LED Bulb",
+                kategori = "IoT Penerangan",
+                harga = 150000.0,
+                stok = 20,
+                sku = "XIA-BULB-RGB",
+                berat = 0.15,
+                deskripsi = "Lampu LED pintar dengan 16 juta warna, kontrol via aplikasi Mi Home, dan dukungan Google Assistant."
             ),
             Barang(
                 id = 1717000000002L,
-                nama = "Keyboard Mechanical RK61",
-                kategori = "Aksesoris",
-                harga = 550000.0,
-                stok = 8,
-                sku = "RK-61-RGB",
-                berat = 0.6,
-                deskripsi = "Keyboard mechanical 60% dengan triple mode connection (Bluetooth, 2.4G, Wired) dan hotswappable switches."
+                nama = "Bardi Smart Plug",
+                kategori = "IoT Power",
+                harga = 125000.0,
+                stok = 15,
+                sku = "BAR-PLUG-16A",
+                berat = 0.1,
+                deskripsi = "Steker pintar WiFi yang dapat mematikan/menyalakan arus listrik melalui smartphone dan penjadwalan otomatis."
             ),
             Barang(
                 id = 1717000000003L,
-                nama = "ASUS Vivobook 15",
-                kategori = "Elektronik",
-                harga = 8500000.0,
-                stok = 3,
-                sku = "ASUS-V15-OLED",
-                berat = 1.7,
-                deskripsi = "Laptop dengan layar OLED 15.6 inci, prosesor Intel Core i5, RAM 8GB, dan SSD 512GB. Tipis dan ringan."
+                nama = "Sonoff TH16 Temp & Hum",
+                kategori = "IoT Sensor",
+                harga = 185000.0,
+                stok = 10,
+                sku = "SON-TH16-SNS",
+                berat = 0.12,
+                deskripsi = "Sensor suhu dan kelembapan pintar yang dapat memicu perangkat lain berdasarkan kondisi lingkungan."
             ),
             Barang(
                 id = 1717000000004L,
-                nama = "Monitor LG 24MP400",
-                kategori = "Elektronik",
-                harga = 1250000.0,
+                nama = "Yale Smart Door Lock",
+                kategori = "IoT Keamanan",
+                harga = 3500000.0,
                 stok = 5,
-                sku = "LG-24-FHD",
-                berat = 3.5,
-                deskripsi = "Monitor 24 inci Full HD IPS dengan desain bezel tipis dan fitur AMD FreeSync untuk visual yang mulus."
+                sku = "YAL-LOK-PRO",
+                berat = 2.5,
+                deskripsi = "Kunci pintu pintar dengan akses fingerprint, PIN, dan kontrol jarak jauh via Yale Access App."
             ),
             Barang(
                 id = 1717000000005L,
-                nama = "Printer Epson L3250",
-                kategori = "Elektronik",
-                harga = 2450000.0,
-                stok = 4,
-                sku = "EPS-L3250-WIFI",
-                berat = 4.0,
-                deskripsi = "Printer EcoTank serbaguna dengan fitur print, scan, copy, dan konektivitas Wi-Fi Direct."
+                nama = "Tapo C200 Smart Camera",
+                kategori = "IoT Keamanan",
+                harga = 450000.0,
+                stok = 12,
+                sku = "TP-TAPO-C200",
+                berat = 0.4,
+                deskripsi = "Kamera pengawas WiFi dengan fitur Pan/Tilt, Night Vision, dan deteksi gerakan secara real-time."
             )
         )
 
